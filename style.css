@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color:cyan;
+}
+#heading1{
+    border-style: solid;
+    font-size: 50px;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+p{
+    font-size: 25px;
+}
